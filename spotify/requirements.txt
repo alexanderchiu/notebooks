@@ -1,0 +1,6 @@
+requests
+pandas
+jupyter
+plotnine
+umap-learn
+plotly
